@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm aspiring to learn Astro photography 🔭
 
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=vakharia-aarya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/>  -->
+<img src = "https://github-readme-stats.vercel.app/api?username=vakharia-aarya&theme=codeSTACKr&show_icons=true"/> 
