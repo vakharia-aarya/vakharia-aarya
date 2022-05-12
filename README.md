@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I'm aspiring to learn Astro photography 🔭
 
 <img src = "https://github-readme-stats.vercel.app/api?username=vakharia-aarya&theme=codeSTACKr&show_icons=true"/> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vakharia-aarya&layout=compact"/>
