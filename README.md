@@ -1,6 +1,6 @@
 ### Hi! I'm Aarya Vakharia 👋
 
-- 🌱 I’m currently learning Keras and Tenseflow
+- 🌱 I’m currently learning Reinforced Learning
 - 👯 I’m looking to collaborate on web development
 - 🎓 I'm a student at USC
 - 📧 How to reach me: Email at avakhari@usc.edu 
